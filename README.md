@@ -10,7 +10,7 @@ This initiative focuses on developing a unified report tailored to pizza lovers.
 
 3. Providing thorough insights for comprehensive analysis.
 
- 4.Incorporating dynamic visuals to enhance data presentation.
+4. Incorporating dynamic visuals to enhance data presentation.
 
 
 During this project, I've gained experience in:
