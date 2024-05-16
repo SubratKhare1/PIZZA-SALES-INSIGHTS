@@ -1,4 +1,4 @@
-# Pizza_Sales_Analysis [Power BI| SQL| Excel] 
+# Pizza_Sales_Analysis [Power BI| SQL| Excel | DAX STUDIO] 
 
 1) Conducted analysis of pizza sales for Company-X within the food industry using Power BI.
 2) Identified key insights regarding the most preferred pizza variations over the years.
